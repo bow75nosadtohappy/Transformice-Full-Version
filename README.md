@@ -239,3 +239,6 @@ This repository serves as the official landing page for Transformice. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Transformice today!**
+
+---
+**Last updated:** 2026-09-08 15:00:32 UTC
